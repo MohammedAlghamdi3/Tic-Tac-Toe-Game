@@ -20,3 +20,16 @@ is a Javascript game for two players User and computer, X and O, who take turns 
 The following example game is won by the first player, X:
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Tic-tac-toe-game-1.svg/958px-Tic-tac-toe-game-1.svg.png)
+
+## Features:
+
+* Enter the name of the player home page.
+* Button to game page.
+* The computer player medium AI.
+* Score tracker.
+* Button for player again.
+
+
+## Screenshot
+
+
