@@ -32,4 +32,10 @@ The following example game is won by the first player, X:
 
 ## Screenshot
 
+### Homepage
+![](./screenshots/Home Page.png)
+
+### Game
+![](./screenshots/Game.png)
+
 
